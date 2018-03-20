@@ -125,6 +125,11 @@
   },
   "bugs": {
     "url": "https://bitbucket.org/grigson/smartadmin-angular-2/issues"
+  },
+    "defaults": {
+    "serve": {
+      "port": 1337
+    }
   }
  
 }
