@@ -1,2 +1,2 @@
-web: npm start --host 0.0.0.0 --port 5000
+web: npm start 
 node --max_old_space_size=128
