@@ -58,8 +58,8 @@
     },
     "serve" : {
       
-       "port" : 5000,
-       "disableHostCheck": true
+       "port" : 5000
+       
       
     }
   }
