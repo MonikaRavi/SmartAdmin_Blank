@@ -1,3 +1,3 @@
-web: npm start server.js
-worker: npm start -p $PORT
+web: npm start 
+worker: npm start 
 node --max_old_space_size=128
