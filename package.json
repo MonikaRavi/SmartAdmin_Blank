@@ -61,6 +61,7 @@
     "debounce": "1.1.0",
     "dropzone": "5.2.0",
     "dygraphs": "2.0.0",
+    "express": "^4.16.3",
     "fuelux": "3.16.2",
     "he": "1.1.1",
     "highcharts": "6.0.3",
@@ -126,10 +127,9 @@
   "bugs": {
     "url": "https://bitbucket.org/grigson/smartadmin-angular-2/issues"
   },
-    "defaults": {
+  "defaults": {
     "serve": {
-            "port": 1337
+      "port": 1337
     }
   }
- 
 }
