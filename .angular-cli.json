@@ -57,7 +57,7 @@
       "template": false
     },
     "serve" : {
-      "host": "24.182.17.85",
+      "host": "localhost",
        "port" : 5000
        
       
