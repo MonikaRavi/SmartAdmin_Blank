@@ -57,6 +57,7 @@
       "template": false
     },
     "serve" : {
+      "host": "192.168.6.213",
        "port" : 5000
       
     }

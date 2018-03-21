@@ -1,3 +1,3 @@
-web: npm start --public-host 192.168.6.213 -p $PORT
-worker: npm start --public-host 192.168.6.213 -p $PORT
+web: npm start -p $PORT
+worker: npm start -p $PORT
 node --max_old_space_size=128
