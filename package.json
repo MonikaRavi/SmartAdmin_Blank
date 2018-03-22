@@ -33,6 +33,7 @@
   },
   "private": true,
   "dependencies": {
+    "@angular/cli": "^1.6.8",
     "@angular-redux/store": "7.0.1",
     "@angular/animations": "5.0.5",
     "@angular/common": "5.0.5",
